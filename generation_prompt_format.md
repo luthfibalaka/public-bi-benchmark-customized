@@ -1,6 +1,6 @@
 **System**:
 
-Below is the dataset from {model_affiliation} organization:
+Below is the dataset from {table_name} organization:
 
 Sample rows of the dataset:
 
